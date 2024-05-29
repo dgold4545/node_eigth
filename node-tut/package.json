@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/dgold4545/node_eigth#readme",
   "dependencies": {
-    "validator": "^13.12.0"
+    "validator": "^1.0.0"
   }
 }
