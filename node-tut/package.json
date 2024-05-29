@@ -1,0 +1,20 @@
+{
+  "name": "node-tut",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dgold4545 _ https://github.com/dgold4545/node_eigth",
+  "license": "ISC",
+  "keywords": [],
+  "description": "try_catch",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgold4545/node_eigth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dgold4545/node_eigth/issues"
+  },
+  "homepage": "https://github.com/dgold4545/node_eigth#readme"
+}
